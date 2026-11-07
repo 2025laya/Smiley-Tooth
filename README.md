@@ -1,12 +1,12 @@
 ## To Create Your Own Branch
 ```powershell
-git checkout -b [`yourName`]
+git checkout -b `yourName`
 ```
 when you decide to push your edits write these commands :
 ```powershell
 git add .
-git commit -m "[`any commit you want`]
-git push -u origin [`your branch name`]
+git commit -m "`any commit you want`"
+git push -u origin `your branch name`
 ```
 ________________________________________________________
 
