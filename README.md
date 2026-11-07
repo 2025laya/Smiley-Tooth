@@ -15,6 +15,7 @@ first , write in command line of frontend folder these lines :
 ```powershell
 npm install
 npm install boostrap
+npm install bootstrap@6.0.0-alpha.1
 npm install @fortawesome/fontawesome-free
 ```
 _________________________________________________________
