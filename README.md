@@ -6,7 +6,7 @@ when you decide to push your edits write these commands :
 ```powershell
 git add .
 git commit -m "any commit you want"
-git push -u origin `your branch name`
+git push -u origin `your branch name/`
 ```
 ________________________________________________________
 
