@@ -2,7 +2,7 @@
 ```powershell
 git checkout -b `yourName`
 ```
-when you decide to push your edits write these commands :
+# when you decide to push your edits write these commands :
 ```powershell
 git add .
 git commit -m "any commit you want"
