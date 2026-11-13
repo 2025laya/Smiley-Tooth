@@ -9,6 +9,17 @@ git commit -m "any commit you want"
 git push -u origin yourBranchName
 ```
 ________________________________________________________
+# To Switch To Another Branch
+```powershell
+git checkout 'BranchName'
+```
+________________________________________________________
+#When You Decide to commit The another Branch's edits
+```powershell
+git checkout 'BranchName'
+git pull origin 'TheAnotherBranch'sEdits'
+```
+________________________________________________________
 
 ### FrontEnd 
 first , write in command line of frontend folder these lines :
