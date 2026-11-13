@@ -1,7 +1,7 @@
 // import logo from './logo.svg';
 import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap/dist/js/bootstrap.min.js';
+// import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/js/bootstrap.min.js';
 import Header from './header';
 // import './all.min.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -9,7 +9,7 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons';
 // import { Tooltip, Toast, Popover } from 'bootstrap';
 function App() {
   return (
-    <div>
+    <div class="bg-muted-secondary">
       <Header></Header>
     </div>
 //     <div class="align-items-center justify-content-center">
